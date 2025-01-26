@@ -58,11 +58,12 @@ ul {
   padding: 0;
   text-align: center;
   width: 34px;
+  height: 34px;
 }
 
 .board-row:after {
   clear: both;
-  content: '';
+  content: "";
   display: table;
 }
 
